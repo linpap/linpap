@@ -50,17 +50,6 @@
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=linpap&show_icons=true&hide_border=true&count_private=true&title_color=ef9d6b&icon_color=ef9d6b&text_color=5b4a3f&bg_color=fffaf4)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linpap&layout=compact&hide_border=true&langs_count=8&title_color=ef9d6b&text_color=5b4a3f&bg_color=fffaf4)
-
-</div>
-
----
-
 ## 🤝 Connect
 
 - 🌐 **Portfolio** — [soumyajit-work.pages.dev](https://soumyajit-work.pages.dev)
