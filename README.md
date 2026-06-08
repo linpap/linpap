@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://raw.githubusercontent.com/linpap/linpap/main/banner.svg" alt="Soumyajit Sarkar — Full-Stack Developer & AI Engineer · building at the intersection of AI, finance & the web" width="100%" />
 
