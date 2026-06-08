@@ -1,11 +1,10 @@
 <div align="center">
 
-# Soumyajit Sarkar
+<img src="./banner.svg" alt="Soumyajit Sarkar — Full-Stack Developer & AI Engineer · building at the intersection of AI, finance & the web" width="100%" />
 
-### Full-Stack Developer &nbsp;·&nbsp; AI Engineer
+<br/><br/>
 
-Building products at the intersection of **AI, finance, and the web**.
-<br/>15 projects shipped &nbsp;·&nbsp; 13 live in production.
+**15 projects shipped &nbsp;·&nbsp; 13 live in production**
 
 <br/>
 
@@ -69,5 +68,3 @@ Building products at the intersection of **AI, finance, and the web**.
 - 🛡️ **Product** — [SafePrompt](https://safeprompt.dev)
 
 <div align="center"><sub>Always shipping. Always learning.</sub></div>
-
-<!-- profile -->

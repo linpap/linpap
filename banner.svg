@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141a24"/>
+      <stop offset="0.55" stop-color="#0f141c"/>
+      <stop offset="1" stop-color="#0b0f15"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f6b98c"/>
+      <stop offset="1" stop-color="#ef9d6b"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#ffffff" opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#dots)"/>
+  <rect x="0" y="0" width="1200" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- faint watermark -->
+  <text x="1155" y="298" font-family="'JetBrains Mono','Fira Code',monospace" font-size="210" font-weight="700"
+        fill="#ef9d6b" opacity="0.05" text-anchor="end">&#60;/&#62;</text>
+
+  <!-- code editor window -->
+  <rect x="56" y="58" width="524" height="204" rx="13" fill="#0c1118" stroke="#26303f" stroke-width="1.2"/>
+  <line x1="56" y1="92" x2="580" y2="92" stroke="#1b2331" stroke-width="1.2"/>
+  <circle cx="84"  cy="75" r="6" fill="#ff5f56"/>
+  <circle cx="104" cy="75" r="6" fill="#ffbd2e"/>
+  <circle cx="124" cy="75" r="6" fill="#27c93f"/>
+  <text x="150" y="80" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13" fill="#5b6675">profile.js</text>
+
+  <!-- code -->
+  <g font-family="'JetBrains Mono','Fira Code',monospace" font-size="15.5">
+    <text x="80" y="124"><tspan fill="#ef9d6b">const</tspan><tspan fill="#e6edf3"> dev </tspan><tspan fill="#768390">= {</tspan></text>
+    <text x="80" y="150"><tspan fill="#82aaff">  role</tspan><tspan fill="#768390">: </tspan><tspan fill="#9ece6a">"Full-Stack + AI"</tspan><tspan fill="#768390">,</tspan></text>
+    <text x="80" y="176"><tspan fill="#82aaff">  focus</tspan><tspan fill="#768390">: [</tspan><tspan fill="#9ece6a">"AI"</tspan><tspan fill="#768390">, </tspan><tspan fill="#9ece6a">"finance"</tspan><tspan fill="#768390">, </tspan><tspan fill="#9ece6a">"web"</tspan><tspan fill="#768390">],</tspan></text>
+    <text x="80" y="202"><tspan fill="#82aaff">  shipped</tspan><tspan fill="#768390">: </tspan><tspan fill="#ff9e64">15</tspan><tspan fill="#768390">, </tspan><tspan fill="#82aaff">live</tspan><tspan fill="#768390">: </tspan><tspan fill="#ff9e64">13</tspan><tspan fill="#768390">,</tspan></text>
+    <text x="80" y="228"><tspan fill="#82aaff">  status</tspan><tspan fill="#768390">: </tspan><tspan fill="#9ece6a">"always shipping"</tspan></text>
+    <text x="80" y="254"><tspan fill="#768390">}</tspan></text>
+  </g>
+
+  <!-- right: identity -->
+  <text x="624" y="138" font-size="48" font-weight="700" fill="#f5f7fa">Soumyajit Sarkar</text>
+  <rect x="626" y="154" width="118" height="4" rx="2" fill="url(#accent)"/>
+  <text x="624" y="194" font-size="21" font-weight="600" fill="#ef9d6b">Full-Stack Developer &#183; AI Engineer</text>
+  <text x="624" y="226" font-size="15.5" fill="#8b97a7">Building at the intersection of AI, finance &#38; the web.</text>
+  <text x="624" y="262" font-family="'JetBrains Mono','Fira Code',monospace" font-size="13.5" fill="#5e6a7a">TypeScript &#160;&#183;&#160; Python &#160;&#183;&#160; React &#160;&#183;&#160; Cloudflare &#160;&#183;&#160; AWS</text>
+</svg>
