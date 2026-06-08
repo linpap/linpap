@@ -69,3 +69,5 @@ Building products at the intersection of **AI, finance, and the web**.
 - 🛡️ **Product** — [SafePrompt](https://safeprompt.dev)
 
 <div align="center"><sub>Always shipping. Always learning.</sub></div>
+
+<!-- profile -->
